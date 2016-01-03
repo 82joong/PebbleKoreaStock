@@ -1,0 +1,57 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        "configurable"
+    ],
+    "companyName": "82joong@gmail.com",
+    "longName": "STOCK",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "name": "IMAGE_MENU_ICON",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "bitmap"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/globe",
+                "menuIcon": true,
+                "name": "IMAGES_GLOBE",
+                "type": "png"
+            },
+            {
+                "file": "images/icon_stock",
+                "name": "IMAGES_ICON_STOCK",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "STOCK",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "313891cd-e51b-417a-90ac-c8cb129fe6fb",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "hiddenApp": false,
+        "watchface": false
+    }
+}
